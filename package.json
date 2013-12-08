@@ -1,0 +1,8 @@
+{
+  "name": "CommandPalette_Backend",
+  "version": "0.0.1",
+  "dependencies": {
+    "q": "0.9.7"
+  },
+  "devDependencies": {}
+}
