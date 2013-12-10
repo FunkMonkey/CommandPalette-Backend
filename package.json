@@ -1,8 +1,15 @@
 {
-  "name": "CommandPalette_Backend",
-  "version": "0.0.1",
-  "dependencies": {
-    "q": "0.9.7"
-  },
-  "devDependencies": {}
+	"name": "CommandPalette-Backend",
+	
+	"version": "0.0.2",
+	
+	"main": "lib/Backend.js",
+	
+	"dependencies": {
+		"q": "0.9.7",
+		"grunt": "~0.4.2",
+		"grunt-contrib-watch": "~0.5.3",
+		"grunt-typescript": "~0.2.6"
+	},
+	"devDependencies": {}
 }
